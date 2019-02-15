@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="obj.name" />
+  <WatchEntry1 value="Environment.Value(&quot;Region&quot;)" />
+</Properties>

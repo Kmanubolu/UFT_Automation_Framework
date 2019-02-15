@@ -1,0 +1,94 @@
+<Environment>
+	
+	<Variable>
+		<Name>LoginUserName</Name>
+		<Value></Value>
+	</Variable>
+
+	<Variable>
+		<Name>LoginPassword</Name>
+		<Value></Value>
+	</Variable>
+
+	<Variable>
+		<Name>FrameworkFolderPath</Name>
+		<Value>D:\GWPC_25052016\PolicyCenter\</Value>
+	</Variable>
+
+	<Variable>
+		<Name>DataFolderPath</Name>
+		<Value>D:\25052016\PolicyCenter\Data Dictionary\</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ResultsFolderPath</Name>
+		<Value>D:\GWPC_25052016\PolicyCenter\Execution Report\</Value>
+	</Variable>
+
+	<Variable>
+		<Name>Region</Name>
+		<Value>QA</Value>
+	</Variable>
+
+	<Variable>
+		<Name>QA</Name>
+		<Value></Value>
+	</Variable>
+
+	<Variable>
+		<Name>ChangeBranch</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>Release</Name>
+		<Value>Release1.1</Value>
+	</Variable>
+
+	<Variable>
+		<Name>MailCC</Name>
+		<Value></Value>
+	</Variable>
+
+	<Variable>
+		<Name>MailTo</Name>
+		<Value></Value>
+	</Variable>
+
+	
+	<Variable>
+		<Name>CaptureScreenShotforPass</Name>
+		<Value>NO</Value>
+	</Variable>
+
+	<Variable>
+		<Name>CaptureScreenShotforFail</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>CaptureScreenShotforWarning</Name>
+		<Value>YES</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ObjectTimeOut</Name>
+		<Value>10</Value>
+	</Variable>
+
+	<Variable>
+		<Name>SyncTimeOut</Name>
+		<Value>20</Value>
+	</Variable>
+
+</Environment>
+
+
+
+
+
+
+
+
+
+
